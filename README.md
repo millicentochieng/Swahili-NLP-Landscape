@@ -13,7 +13,7 @@ iii) NLP Models trained on Swahili language.
 
 ## Parts-of-speech tagging (POST)
 
-[Paper](https://dl.acm.org/doi/abs/10.1145/3445975) Shikali, et al. (2021) Learning Syllables Using Conv-LSTM Model for Swahili Word Representation and Part-of-speech Tagging, ACM. 
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3445975) Shikali, et al. (2021) Learning Syllables Using Conv-LSTM Model for Swahili Word Representation and Part-of-speech Tagging, ACM. 
 
 
 
@@ -69,13 +69,13 @@ iii) NLP Models trained on Swahili language.
 
 
 
-## ii) Available datasets on Swahili Language.
+# ii) Available datasets on Swahili Language.
 
 
 
 
 
-## iii) NLP Models trained on Swahili language.
+# iii) NLP Models trained on Swahili language.
 
 * [XLM-R (new model)](https://huggingface.co/transformers/model_doc/xlmroberta.html):Trained on 2.5TB CommonCrawl data in 100 languages + Swahili. Masked language modeling + classification, sequence labeling and question answering.
 * [XLM](https://huggingface.co/transformers/model_doc/xlm.html): Trained on 100 languages + Swahili, with Masked language modeling objective.
