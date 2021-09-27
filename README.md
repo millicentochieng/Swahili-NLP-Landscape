@@ -11,79 +11,75 @@ iii) NLP Models trained on Swahili language.
 
 # i) NLP Tasks on Swahili Language
 
-# Section One
+## Parts-of-speech tagging (POST)
 
-See [section one](#section-one).
-
-# Parts-of-speech tagging (POST)
-
-[Paper] (#https://dl.acm.org/doi/abs/10.1145/3445975) Shikali, et al. (2021) Learning Syllables Using Conv-LSTM Model for Swahili Word Representation and Part-of-speech Tagging, ACM. 
+[Paper](https://dl.acm.org/doi/abs/10.1145/3445975) Shikali, et al. (2021) Learning Syllables Using Conv-LSTM Model for Swahili Word Representation and Part-of-speech Tagging, ACM. 
 
 
 
 
-# Word Sense Disambiguation (WSD)
+## Word Sense Disambiguation (WSD)
 
 
-# Named Entity Recognition (NER)
-
-
-
-
-# Text Normalization
-
-
-
-# Text Classification
-
-
-
-# Sentiment Analysis
+## Named Entity Recognition (NER)
 
 
 
 
-# Machine Translation (MT)
+## Text Normalization
+
+
+
+## Text Classification
+
+
+
+## Sentiment Analysis
 
 
 
 
-# Grammar Checking 
+## Machine Translation (MT)
 
 
 
 
-# Automatic Speech Recognition (ASR)
+## Grammar Checking 
 
 
 
 
-# Question Answering (QA)
+## Automatic Speech Recognition (ASR)
 
 
 
 
-# Common Sense Reasoning (CSR)
+## Question Answering (QA)
 
 
 
 
-# Swahili-based Code-mixing Analysis 
+## Common Sense Reasoning (CSR)
 
 
 
 
-# ii) Available datasets on Swahili Language.
+## Swahili-based Code-mixing Analysis 
+
+
+
+
+## ii) Available datasets on Swahili Language.
 
 
 
 
 
-# iii) NLP Models trained on Swahili language.
+## iii) NLP Models trained on Swahili language.
 
-* [XLM-R (new model)] (https://huggingface.co/transformers/model_doc/xlmroberta.html):Trained on 2.5TB CommonCrawl data in 100 languages + Swahili. Masked language modeling + classification, sequence labeling and question answering.
-* [XLM] (https://huggingface.co/transformers/model_doc/xlm.html): Trained on 100 languages + Swahili, with Masked language modeling objective.
-* [mBERT] (https://github.com/google-research/bert/blob/master/multilingual.md): Trained on 104 languages with Masked language modeling + Next sentence prediction as the objective.
+* [XLM-R (new model)](https://huggingface.co/transformers/model_doc/xlmroberta.html):Trained on 2.5TB CommonCrawl data in 100 languages + Swahili. Masked language modeling + classification, sequence labeling and question answering.
+* [XLM](https://huggingface.co/transformers/model_doc/xlm.html): Trained on 100 languages + Swahili, with Masked language modeling objective.
+* [mBERT](https://github.com/google-research/bert/blob/master/multilingual.md): Trained on 104 languages with Masked language modeling + Next sentence prediction as the objective.
 
  
 
